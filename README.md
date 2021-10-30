@@ -1,2 +1,2 @@
-# Fundamentos-de-Node-Js
-Este repositorio esta dedicado a las practicas de programación usando Node Js
+# Platzi Node JS Course
+This repository is dedicated to programming practices using Node Js

@@ -1,0 +1,24 @@
+{
+  "name": "scrapping",
+  "version": "1.0.0",
+  "description": "This repository is dedicated to programming practices using Node Js. These programming practices are done through Platzi's Node Js fundamentals course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "PlatziNodeJs"
+  },
+  "keywords": [
+    "Node",
+    "JS",
+    "PLatzi",
+    "Scrapping"
+  ],
+  "author": "Sergio Luis Beleño Diaz",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "11.0.0"
+  }
+}

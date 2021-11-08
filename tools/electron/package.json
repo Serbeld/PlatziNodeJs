@@ -1,0 +1,25 @@
+{
+  "name": "electron-app",
+  "version": "1.0.0",
+  "description": "This repository is dedicated to programming practices using Node Js. These programming practices are done through Platzi's Node Js fundamentals course.",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "PlatziNodeJs"
+  },
+  "keywords": [
+    "Platzi",
+    "Node",
+    "Js",
+    "Electron"
+  ],
+  "author": "Sergio Luis Beleño Diaz",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^15.3.0"
+  }
+}

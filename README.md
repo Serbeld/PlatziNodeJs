@@ -8,6 +8,6 @@ This repository has the develop and master branches. To update the repository, s
 <img src="/img/ScreenshotNodeJsRepository.png" alt='Screenshot of gitflow of the PlatziNodeJs Repository created by Sergio Beleño'/>
 
     Author: Sergio Luis Beleño Díaz
-    Last modified: 07/11/2021
+    Last modified: 08/11/2021
 
 End :octocat:

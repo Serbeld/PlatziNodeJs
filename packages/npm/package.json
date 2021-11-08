@@ -1,0 +1,25 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "npm packages init",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "PlatziNodeJS"
+  },
+  "keywords": [
+    "Platzi",
+    "Node",
+    "Js",
+    "Curso",
+    "npm"
+  ],
+  "author": "Sergio Luis Beleño Diaz",
+  "license": "MIT",
+  "dependencies": {
+    "is-odd": "3.0.1"
+  }
+}
